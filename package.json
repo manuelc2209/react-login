@@ -33,7 +33,7 @@
     },
     "devDependencies": {
         "@babel/plugin-transform-typescript": "^7.25.2",
-        "@faker-js/faker": "^9.3.0",
+        "@faker-js/faker": "^9.5.0",
         "@shopify/eslint-plugin": "^45.0.0",
         "@testing-library/dom": "^10.4.0",
         "@testing-library/jest-dom": "6.4.8",
